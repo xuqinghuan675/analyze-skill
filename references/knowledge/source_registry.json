@@ -1,0 +1,880 @@
+{
+  "schema": 1,
+  "release": "V6",
+  "note": "本次核对的独立来源条目；包括以前使用过的来源复核。不是实时数据、荐股榜或全文阅读证明。role仅为取证起点，最终primary取决于具体主张。",
+  "entries": [
+    {
+      "id": "X01",
+      "channel": "X",
+      "name": "Aswath Damodaran：国别风险更新",
+      "url": "https://x.com/AswathDamodaran/status/1816176139465007105",
+      "review_status": "excerpt",
+      "role": "lead",
+      "tags": [
+        "valuation",
+        "macro"
+      ],
+      "lesson": "追踪估值参数更新和原文链接",
+      "limits": "回到博客和数据表；发布日期与估值时点对齐",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "X02",
+      "channel": "X",
+      "name": "Javier Blas：Golden Pass LNG 项目时间",
+      "url": "https://x.com/JavierBlas/status/1852350840201253159",
+      "review_status": "excerpt",
+      "role": "lead",
+      "tags": [
+        "industry",
+        "energy",
+        "event"
+      ],
+      "lesson": "把项目延期映射为供给及订单时点",
+      "limits": "历史评论非当前投产事实；查项目方、许可与实际进度",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "X03",
+      "channel": "X",
+      "name": "Federal Reserve：支付会议公告",
+      "url": "https://x.com/federalreserve/status/1963255999097127245",
+      "review_status": "excerpt",
+      "role": "lead",
+      "tags": [
+        "macro",
+        "policy",
+        "event"
+      ],
+      "lesson": "定位官方事件与公布时间",
+      "limits": "会议公告不是政策落地；回到 Fed 原始文件",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "X04",
+      "channel": "X",
+      "name": "Kaiko：交易所市场份额",
+      "url": "https://x.com/KaikoData/status/2014359419274846275",
+      "review_status": "excerpt",
+      "role": "lead",
+      "tags": [
+        "crypto",
+        "market",
+        "quant"
+      ],
+      "lesson": "追市场份额定义及场所覆盖",
+      "limits": "供应商单条主张，查方法、交易所和实际成交",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "X05",
+      "channel": "X",
+      "name": "SemiAnalysis",
+      "url": "https://x.com/SemiAnalysis_/with_replies",
+      "review_status": "index",
+      "role": "lead",
+      "tags": [
+        "industry",
+        "technology",
+        "product"
+      ],
+      "lesson": "定位技术产业讨论",
+      "limits": "仅账号入口；未读全帖，性能和成本必须实证",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "X06",
+      "channel": "X",
+      "name": "Asianometry",
+      "url": "https://x.com/asianometry",
+      "review_status": "index",
+      "role": "lead",
+      "tags": [
+        "industry",
+        "technology"
+      ],
+      "lesson": "产业技术与供应链选题",
+      "limits": "仅账号入口，回到讲座与公司原件",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "X07",
+      "channel": "X",
+      "name": "Ben Thompson",
+      "url": "https://x.com/benthompson",
+      "review_status": "index",
+      "role": "lead",
+      "tags": [
+        "product",
+        "business",
+        "industry"
+      ],
+      "lesson": "平台和分发机制线索",
+      "limits": "仅作者链接入口；不代表已读全部帖子",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "Y01",
+      "channel": "YouTube",
+      "name": "Howard Marks：How to Think About Risk",
+      "url": "https://www.youtube.com/watch?v=WXQBUSryfdM",
+      "review_status": "caption_excerpt",
+      "role": "method",
+      "tags": [
+        "risk",
+        "market",
+        "valuation"
+      ],
+      "lesson": "波动与损失、概率、压力和风险控制",
+      "limits": "175–204、787–814、1157–1184、1988–2013秒；自动字幕",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "Y02",
+      "channel": "YouTube",
+      "name": "Michael Mauboussin：The Success Equation",
+      "url": "https://www.youtube.com/watch?v=1JLfqBsX5Lc",
+      "review_status": "caption_excerpt",
+      "role": "method",
+      "tags": [
+        "quant",
+        "risk",
+        "expectation"
+      ],
+      "lesson": "能力、运气、相对竞争与均值回归",
+      "limits": "463–484、2319–2342秒；人工字幕",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "Y03",
+      "channel": "YouTube",
+      "name": "Asianometry：ASML 制造供应链",
+      "url": "https://www.youtube.com/watch?v=jJIO7aRXUCg",
+      "review_status": "caption_excerpt",
+      "role": "method",
+      "tags": [
+        "industry",
+        "technology",
+        "product"
+      ],
+      "lesson": "系统集成、供应链、交付和服务",
+      "limits": "280–327、396–443、466–513、813–856秒；人工字幕；历史技术参数需更新",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "Y04",
+      "channel": "YouTube",
+      "name": "Bank of England：Money creation in the modern economy",
+      "url": "https://www.youtube.com/watch?v=CvRAqR2pAgw",
+      "review_status": "caption_excerpt",
+      "role": "method",
+      "tags": [
+        "macro",
+        "bank",
+        "policy"
+      ],
+      "lesson": "存款、准备金、贷款与QE",
+      "limits": "110–140、213–250秒；人工字幕；以官方论文为准",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "Y05",
+      "channel": "YouTube",
+      "name": "Wharton：Howard Marks 访谈",
+      "url": "https://www.youtube.com/watch?v=Nac62xsvk0I",
+      "review_status": "caption_excerpt",
+      "role": "method",
+      "tags": [
+        "risk",
+        "valuation",
+        "market"
+      ],
+      "lesson": "非流动性、价格、信用风险",
+      "limits": "747–776、1708–1735、2353–2381秒；人工字幕",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "Y06",
+      "channel": "YouTube",
+      "name": "小Lin说：日本经济",
+      "url": "https://www.youtube.com/watch?v=Ls9Qlhsu9AA",
+      "review_status": "unavailable",
+      "role": "lead",
+      "tags": [
+        "macro",
+        "industry"
+      ],
+      "lesson": "候选学习入口",
+      "limits": "两种字幕提取均未取得；未阅读，不作为方法出处",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "Y07",
+      "channel": "YouTube",
+      "name": "小Lin说：期货下集",
+      "url": "https://www.youtube.com/watch?v=Ylvr5hl6hYo",
+      "review_status": "caption_excerpt",
+      "role": "method",
+      "tags": [
+        "market",
+        "energy",
+        "risk"
+      ],
+      "lesson": "实物交割、库存约束与风险转移",
+      "limits": "1057–1080、1429–1455、1472–1505、1550–1579秒；人工字幕",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "Y08",
+      "channel": "YouTube",
+      "name": "小Lin说：期货上集",
+      "url": "https://www.youtube.com/watch?v=8qAHj1a0H4c",
+      "review_status": "caption_excerpt",
+      "role": "method",
+      "tags": [
+        "market",
+        "crypto",
+        "risk"
+      ],
+      "lesson": "交割方式、永续资金费率",
+      "limits": "451–486、569–596秒；人工字幕",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "Y09",
+      "channel": "YouTube",
+      "name": "小Lin说：SVB",
+      "url": "https://www.youtube.com/watch?v=vP45wBOQLS8",
+      "review_status": "caption_excerpt",
+      "role": "method",
+      "tags": [
+        "bank",
+        "risk",
+        "macro"
+      ],
+      "lesson": "久期错配、存款撤离与挤兑",
+      "limits": "324–351、399–427、500–526、617–643秒；原始财报和监管复盘核对",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "Y10",
+      "channel": "YouTube",
+      "name": "Damodaran：2024 Country Risk",
+      "url": "https://www.youtube.com/watch?v=h1Q2Mg48y0I",
+      "review_status": "caption_excerpt",
+      "role": "method",
+      "tags": [
+        "valuation",
+        "macro",
+        "risk"
+      ],
+      "lesson": "国别风险、CDS与货币一致性",
+      "limits": "1042–1086、1168–1206、1453–1495、2032–2073秒；自动字幕",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "B01",
+      "channel": "blog",
+      "name": "Ben Thompson：Aggregation Theory",
+      "url": "https://stratechery.com/2015/aggregation-theory/",
+      "review_status": "excerpt",
+      "role": "method",
+      "tags": [
+        "product",
+        "business",
+        "industry"
+      ],
+      "lesson": "分发、用户关系与平台议价",
+      "limits": "适用条件、监管、多平台及竞争需另查",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "B02",
+      "channel": "blog",
+      "name": "Bill Gurley：All Revenue Is Not Created Equal",
+      "url": "https://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/",
+      "review_status": "excerpt",
+      "role": "method",
+      "tags": [
+        "valuation",
+        "business",
+        "product"
+      ],
+      "lesson": "区分收入质量、增长与经营经济性",
+      "limits": "不套用历史倍数为当前定价",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "B03",
+      "channel": "blog",
+      "name": "Damodaran：Country Risk 2024",
+      "url": "https://aswathdamodaran.blogspot.com/2024/07/country-risk-my-2024-data-update.html",
+      "review_status": "excerpt",
+      "role": "method",
+      "tags": [
+        "valuation",
+        "macro",
+        "risk"
+      ],
+      "lesson": "经营地区风险与估值参数",
+      "limits": "2024历史方法，不是最新风险溢价",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "B04",
+      "channel": "blog",
+      "name": "Lyn Alden/Sam Callahan：Fiscal Dominance",
+      "url": "https://www.lynalden.com/full-steam-ahead-all-aboard-fiscal-dominance/",
+      "review_status": "excerpt",
+      "role": "lead",
+      "tags": [
+        "macro",
+        "bank",
+        "policy"
+      ],
+      "lesson": "提出财政主导的竞争解释",
+      "limits": "不是会计恒等式；对照央行/财政/部门余额",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "B05",
+      "channel": "blog",
+      "name": "纽约联储：Measuring Treasury Market Depth",
+      "url": "https://libertystreeteconomics.newyorkfed.org/2024/02/measuring-treasury-market-depth/",
+      "review_status": "excerpt",
+      "role": "method",
+      "tags": [
+        "market",
+        "risk",
+        "quant"
+      ],
+      "lesson": "盘口深度的定义及不同交易场所",
+      "limits": "研究范围和样本日期限制外推",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "B06",
+      "channel": "blog",
+      "name": "纽约联储：Treasury Market Liquidity Since April 2025",
+      "url": "https://libertystreeteconomics.newyorkfed.org/2026/04/treasury-market-liquidity-since-april-2025/",
+      "review_status": "excerpt",
+      "role": "method",
+      "tags": [
+        "market",
+        "risk",
+        "macro"
+      ],
+      "lesson": "深度、价差、价格冲击联合判读",
+      "limits": "历史文章；指标不能机械套入加密",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "B07",
+      "channel": "blog",
+      "name": "赵建：周期性下坠与结构性救赎",
+      "url": "https://zhaojian.blog.caixin.com/archives/214102",
+      "review_status": "excerpt",
+      "role": "lead",
+      "tags": [
+        "macro",
+        "policy",
+        "bank"
+      ],
+      "lesson": "部门杠杆和总量增长的机制假说",
+      "limits": "观点待检验；用统计及央行原件",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "B08",
+      "channel": "blog",
+      "name": "复旦发展研究院：孙立坚相关研究文章",
+      "url": "https://fdifudan.blog.caixin.com/archives/289174",
+      "review_status": "excerpt",
+      "role": "lead",
+      "tags": [
+        "macro",
+        "industry",
+        "risk"
+      ],
+      "lesson": "资产与真实供应链风险敞口",
+      "limits": "仅阅读相关段落；具体数据须原始出处",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "L01",
+      "channel": "official_letter",
+      "name": "Berkshire Hathaway 1986 股东信",
+      "url": "https://www.berkshirehathaway.com/letters/1986.html",
+      "review_status": "excerpt",
+      "role": "method",
+      "tags": [
+        "valuation",
+        "accounting",
+        "management"
+      ],
+      "lesson": "所有者收益与收购会计",
+      "limits": "维护资本开支是估计，不是现成会计指标",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "L02",
+      "channel": "official_letter",
+      "name": "Berkshire Hathaway 1992 股东信",
+      "url": "https://www.berkshirehathaway.com/letters/1992.html",
+      "review_status": "excerpt",
+      "role": "method",
+      "tags": [
+        "valuation",
+        "management",
+        "business"
+      ],
+      "lesson": "内在价值和现金流",
+      "limits": "历史案例不直接外推",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "L03",
+      "channel": "official_letter",
+      "name": "Berkshire Hathaway 1994 股东信",
+      "url": "https://www.berkshirehathaway.com/letters/1994.html",
+      "review_status": "excerpt",
+      "role": "method",
+      "tags": [
+        "management",
+        "accounting",
+        "valuation"
+      ],
+      "lesson": "Scott Fetzer资本配置及经营成果",
+      "limits": "需要当期资本与现金表",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "L04",
+      "channel": "official_letter",
+      "name": "Berkshire Hathaway 1996 股东信",
+      "url": "https://www.berkshirehathaway.com/letters/1996.html",
+      "review_status": "excerpt",
+      "role": "method",
+      "tags": [
+        "valuation",
+        "management",
+        "expectation"
+      ],
+      "lesson": "股东经济利益与市场价格",
+      "limits": "区分经营增长与价格收益",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "L05",
+      "channel": "official_letter",
+      "name": "Amazon 1997 股东信",
+      "url": "https://www.aboutamazon.com/news/company-news/amazons-original-1997-letter-to-shareholders",
+      "review_status": "excerpt",
+      "role": "method",
+      "tags": [
+        "product",
+        "management",
+        "business"
+      ],
+      "lesson": "客户、重复购买、长期投入与现金",
+      "limits": "策略声明不是兑现；追后续原件",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "L06",
+      "channel": "official_letter",
+      "name": "Oaktree：I Beg to Differ",
+      "url": "https://www.oaktreecapital.com/insights/memo/i-beg-to-differ",
+      "review_status": "excerpt",
+      "role": "method",
+      "tags": [
+        "expectation",
+        "valuation",
+        "risk"
+      ],
+      "lesson": "第二层思考与独立判断",
+      "limits": "逆向不自动有效",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "L07",
+      "channel": "official_letter",
+      "name": "Oaktree：Sea Change",
+      "url": "https://www.oaktreecapital.com/insights/memo/sea-change",
+      "review_status": "excerpt",
+      "role": "method",
+      "tags": [
+        "macro",
+        "risk",
+        "bank"
+      ],
+      "lesson": "利率制度变化与资本成本",
+      "limits": "2022观点，必须核对现时制度",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "L08",
+      "channel": "official_letter",
+      "name": "Fundsmith 投资者文件目录",
+      "url": "https://www.fundsmith.co.uk/fsf/documents/",
+      "review_status": "index",
+      "role": "lead",
+      "tags": [
+        "management",
+        "valuation",
+        "business"
+      ],
+      "lesson": "年度投资者信候选入口",
+      "limits": "目录查阅，未逐封阅读",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "R01",
+      "channel": "official_research",
+      "name": "Expectations Investing 官方方法",
+      "url": "https://www.expectationsinvesting.com/",
+      "review_status": "excerpt",
+      "role": "method",
+      "tags": [
+        "expectation",
+        "valuation"
+      ],
+      "lesson": "反向估值与预期差",
+      "limits": "官网概要，不冒充全书",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "R02",
+      "channel": "official_research",
+      "name": "Mauboussin：Measuring the Moat",
+      "url": "https://www.morganstanley.com/im/en-us/individual-investor/insights/consilient-observer/measuring-the-moat.html",
+      "review_status": "excerpt",
+      "role": "method",
+      "tags": [
+        "valuation",
+        "industry",
+        "business"
+      ],
+      "lesson": "超额回报与竞争优势",
+      "limits": "公开介绍和相关段落，未声称全文",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "R03",
+      "channel": "official_research",
+      "name": "Mauboussin：Return on Invested Capital",
+      "url": "https://www.morganstanley.com/im/en-us/financial-advisor/insights/consilient-observer/return-on-invested-capital.html",
+      "review_status": "excerpt",
+      "role": "method",
+      "tags": [
+        "valuation",
+        "accounting",
+        "management"
+      ],
+      "lesson": "投入资本与资本回报",
+      "limits": "会计调整需自证",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "R04",
+      "channel": "official_research",
+      "name": "Mauboussin：The Neglected Value Driver",
+      "url": "https://www.morganstanley.com/im/en-us/individual-investor/insights/consilient-observer/the-neglected-value-driver.html",
+      "review_status": "excerpt",
+      "role": "method",
+      "tags": [
+        "valuation",
+        "expectation",
+        "industry"
+      ],
+      "lesson": "竞争优势持续期",
+      "limits": "长周期估计不确定",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "R05",
+      "channel": "official_research",
+      "name": "Mauboussin：Who Is on the Other Side?",
+      "url": "https://www.morganstanley.com/im/en-us/individual-investor/insights/consilient-observer/who-is-on-the-other-side.html",
+      "review_status": "excerpt",
+      "role": "method",
+      "tags": [
+        "market",
+        "expectation",
+        "quant"
+      ],
+      "lesson": "信息、行为、分析及交易约束",
+      "limits": "不能臆测对手身份和动机",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "R06",
+      "channel": "official_research",
+      "name": "Mauboussin：Capital Allocation",
+      "url": "https://www.morganstanley.com/im/en-au/institutional-investor/insights/consilient-observer/capital-allocation.html",
+      "review_status": "excerpt",
+      "role": "method",
+      "tags": [
+        "management",
+        "valuation"
+      ],
+      "lesson": "再投资、资本回报和资金用途",
+      "limits": "以真实资本配置表验证",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "R07",
+      "channel": "official_research",
+      "name": "Bank of England：Money creation",
+      "url": "https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy",
+      "review_status": "excerpt",
+      "role": "primary",
+      "tags": [
+        "macro",
+        "bank",
+        "policy"
+      ],
+      "lesson": "央行与商业银行货币创造原文",
+      "limits": "英国制度示例，各国细节核验",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "R08",
+      "channel": "official_research",
+      "name": "AQR：Multiple-Testing Crisis",
+      "url": "https://www.aqr.com/Insights/Research/Journal-Article/A-Data-Science-Solution-to-the-Multiple-Testing-Crisis-in-Financial-Research",
+      "review_status": "excerpt",
+      "role": "method",
+      "tags": [
+        "quant",
+        "risk"
+      ],
+      "lesson": "多重试验及虚假策略优势",
+      "limits": "模型假设、相关试验数、独立测试仍必要",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "R09",
+      "channel": "official_research",
+      "name": "Fed：SVB监管复盘",
+      "url": "https://www.federalreserve.gov/publications/2023-April-SVB-Evolution-of-Silicon-Valley-Bank.htm",
+      "review_status": "excerpt",
+      "role": "primary",
+      "tags": [
+        "bank",
+        "macro",
+        "risk"
+      ],
+      "lesson": "资产负债、监管及实际风险演化",
+      "limits": "事后报告不能回填事前信息",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "D01",
+      "channel": "official_data",
+      "name": "SVB Financial 2022 Form 10-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/719739/000071973923000021/sivb-20221231.htm",
+      "review_status": "excerpt",
+      "role": "primary",
+      "tags": [
+        "bank",
+        "accounting",
+        "risk"
+      ],
+      "lesson": "原始资产负债与HTM公允价值",
+      "limits": "2022年度历史数据；不同资本口径",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "D02",
+      "channel": "official_data",
+      "name": "ASML 2025 annual report financials",
+      "url": "https://investor.asml.com/annual-reports/2025/financials",
+      "review_status": "excerpt",
+      "role": "primary",
+      "tags": [
+        "industry",
+        "technology",
+        "accounting"
+      ],
+      "lesson": "产品系统与装机服务收入拆分",
+      "limits": "年度历史数据，不是未来订单",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "D03",
+      "channel": "official_data",
+      "name": "ASML 技术原理：光学",
+      "url": "https://www.asml.com/en/technology/lithography-principles/lenses-and-mirrors",
+      "review_status": "excerpt",
+      "role": "primary",
+      "tags": [
+        "technology",
+        "industry",
+        "product"
+      ],
+      "lesson": "光刻物理约束及技术定义",
+      "limits": "制造商自述需客户及交付核对",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "D04",
+      "channel": "official_data",
+      "name": "ASML 2025 技术与战略",
+      "url": "https://www.investor.asml.com/annual-reports/2025/strategy-and-stories",
+      "review_status": "excerpt",
+      "role": "primary",
+      "tags": [
+        "technology",
+        "industry",
+        "product"
+      ],
+      "lesson": "光源演示、研发和实际设备区分",
+      "limits": "技术里程碑不代表量产",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "G01",
+      "channel": "GitHub",
+      "name": "hftbacktest",
+      "url": "https://github.com/nkaz001/hftbacktest",
+      "review_status": "excerpt",
+      "role": "tool",
+      "tags": [
+        "quant",
+        "market",
+        "crypto"
+      ],
+      "lesson": "订单簿回放、队列、延迟与成交模型",
+      "limits": "未安装；历史回放不反映自身冲击",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "G02",
+      "channel": "GitHub",
+      "name": "hftbacktest order fill 文档",
+      "url": "https://hftbacktest.readthedocs.io/en/latest/order_fill.html",
+      "review_status": "excerpt",
+      "role": "tool",
+      "tags": [
+        "quant",
+        "market",
+        "crypto"
+      ],
+      "lesson": "partial/no partial fill及队列限制",
+      "limits": "需真实撮合规则和校准数据",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "G03",
+      "channel": "GitHub",
+      "name": "QuantLib",
+      "url": "https://github.com/lballabio/QuantLib",
+      "review_status": "index",
+      "role": "tool",
+      "tags": [
+        "risk",
+        "valuation",
+        "market"
+      ],
+      "lesson": "利率曲线及金融工具定价候选",
+      "limits": "仓库入口；未执行或审计",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "G04",
+      "channel": "GitHub",
+      "name": "finmarketpy",
+      "url": "https://github.com/cuemacro/finmarketpy",
+      "review_status": "excerpt",
+      "role": "tool",
+      "tags": [
+        "quant",
+        "macro",
+        "market"
+      ],
+      "lesson": "事件研究、风险权重及市场分析",
+      "limits": "README 方法范围；未运行",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "G05",
+      "channel": "GitHub",
+      "name": "DoWhy",
+      "url": "https://github.com/py-why/dowhy",
+      "review_status": "excerpt",
+      "role": "tool",
+      "tags": [
+        "quant",
+        "policy",
+        "industry"
+      ],
+      "lesson": "因果建模、识别、估计及反驳",
+      "limits": "沿用V5方法；未安装或实证",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "G06",
+      "channel": "GitHub",
+      "name": "QuantReplay",
+      "url": "https://github.com/Quod-Financial/quantreplay",
+      "review_status": "excerpt",
+      "role": "tool",
+      "tags": [
+        "quant",
+        "market"
+      ],
+      "lesson": "撮合引擎及订单驱动场景候选",
+      "limits": "README 范围；未执行，不保证真实性能",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "P01",
+      "channel": "podcast",
+      "name": "Columbia Energy Policy：Javier Blas 访谈",
+      "url": "https://www.energypolicy.columbia.edu/javier-blas-on-lessons-from-closing-hormuz-so-far/",
+      "review_status": "excerpt",
+      "role": "method",
+      "tags": [
+        "industry",
+        "energy",
+        "policy"
+      ],
+      "lesson": "炼化能力与商品供需瓶颈",
+      "limits": "44:31–44:55附近；不采用未经核实的市场估算",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "P02",
+      "channel": "podcast",
+      "name": "商业就是这样：Costco/山姆相关节目",
+      "url": "https://www.xiaoyuzhoufm.com/episode/61793e6233215418738f1f17",
+      "review_status": "index",
+      "role": "lead",
+      "tags": [
+        "product",
+        "industry",
+        "business"
+      ],
+      "lesson": "中文零售模式候选入口",
+      "limits": "只见节目说明及时间轴，未听完整节目",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "id": "P03",
+      "channel": "course",
+      "name": "MIT OCW：Finance Theory I / Options",
+      "url": "https://ocw.mit.edu/courses/15-401-finance-theory-i-fall-2008/pages/video-lectures-and-slides/options/",
+      "review_status": "index",
+      "role": "method",
+      "tags": [
+        "risk",
+        "market",
+        "valuation"
+      ],
+      "lesson": "期权正式课程入口",
+      "limits": "目录已见，未观看课程",
+      "checked_on": "2026-11-25"
+    }
+  ]
+}

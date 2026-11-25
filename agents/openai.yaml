@@ -1,0 +1,7 @@
+interface:
+  display_name: "ANALYZE | 深度金融研究"
+  short_description: "联动公司、产品、行业、政策、市场与预期，八关证据验收与可复算模型"
+  icon_small: "./assets/analyze.png"
+  icon_large: "./assets/analyze.svg"
+  brand_color: "#2563EB"
+  default_prompt: "使用 $analyze 对指定公司、行业、产品、政策或市场开展穿透式研究。"
